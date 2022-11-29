@@ -1,0 +1,4 @@
+C:\Users\Максим\Desktop\FileBackup\x64\Debug\FileBackup.vcxproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\FileBackup\x64\Debug\FileBackup.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Desktop\FileBackup\x64\Debug\FileBackup.Form1.resources
+C:\Users\Максим\Desktop\FileBackup\x64\Debug\FileBackup.vcxproj.GenerateResource.cache
